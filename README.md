@@ -1,2 +1,2 @@
 # Coursera_Capstone
-This project is for capstone project for Coursera.
+This project is for  Coursera capstone project .
